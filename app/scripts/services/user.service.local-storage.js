@@ -31,7 +31,6 @@
         }
 
         function Create(user) {
-        	console.log( user );
             return $http.post('/api/users', user).then(handleSuccess, handleError('Error creating user'));
         }
 
