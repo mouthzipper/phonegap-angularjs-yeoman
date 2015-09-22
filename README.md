@@ -1,4 +1,4 @@
-# x1
+# Login and Registration using PhoneGap and AngularJS
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
@@ -6,6 +6,10 @@ version 0.12.1.
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
+
+Run `phonegap run ios` for previewing in ios simulator
+
+Run `phonegap run android` for previewing in android simulator
 
 ## Testing
 
